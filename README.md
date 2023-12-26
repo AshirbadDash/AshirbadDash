@@ -8,7 +8,7 @@
 
 
 
-- 📫 How to reach me **ashirbadash2000@gmail.com**
+  <a href = "ashirbadash2000@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <h3 align="left">CONNECT WITH ME</h3>
