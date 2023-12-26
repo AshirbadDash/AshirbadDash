@@ -9,7 +9,7 @@
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
 <hr>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" />
 
 <a href="https://linkedin.com/in/ashirbaddash" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt ="ash" /></a>
 <a href = "ashirbadash2000@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,14 +29,16 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="ash" />
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="ash" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="ash" />
+  <br>
   
   
 
-
+### 🌱 Github Stats 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashirbaddash&theme=tokyonight">
   <a href="https://github.com/Netsujr">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashirbaddash&theme=dark" alt="Netsujr" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbaddash&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashirbaddash&theme=tokyonight" alt="Netsujr" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbaddash&layout=compact&langs_count=7&theme=tokyonight"/>
 
   <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
