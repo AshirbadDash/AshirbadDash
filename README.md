@@ -1,9 +1,9 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h1 align="center">Hi 👋, I'm Ashirbad Dash</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=A+Fullstack!+Developer+From+India+%E2%9A%A1)](https://git.io/typing-svg)
 
+<h1 align="center">Hi 👋, I'm Ashirbad Dash</h1>
+<a src="https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=A+Fullstack!+Developer+From+India+%E2%9A%A1"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirbaddash&label=Profile%20views&color=0e75b6&style=flat" alt="ashirbaddash"  align ="right"/> </p>
 
 <h3 align="left">CONNECT WITH ME</h3>
