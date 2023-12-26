@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirbaddash&label=Profile%20views&color=0e75b6&style=flat" alt="ashirbaddash" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/ashirbaddash" target="blank"><img src="https://img.shields.io/twitter/follow/ashirbaddash?logo=twitter&style=for-the-badge" alt="ashirbaddash" /></a> </p>
 
 - 📫 How to reach me **ashirbadash2000@gmail.com**
 
