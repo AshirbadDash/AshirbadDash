@@ -6,18 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirbaddash&label=Profile%20views&color=0e75b6&style=flat" alt="ashirbaddash" /> </p>
 
-
-
-
-
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
 <hr>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <a href="https://linkedin.com/in/ashirbaddash" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt ="ash" /></a>
-  <a href = "ashirbadash2000@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "ashirbadash2000@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/atJs6f4wff" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ash" /></a>
+
 </p>
 
 <h3>LANGUAGES AND TOOLS</h3>
@@ -34,9 +31,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="ash" />
   
   
-  
 
-  
 
 <div align="center">
   <a href="https://github.com/Netsujr">
