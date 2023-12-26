@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashirbad Dash</h1>
-<a src="https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=A+Fullstack!+Developer+From+India+%E2%9A%A1"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=A+Fullstack!+Developer+From+India+%E2%9A%A1"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirbaddash&label=Profile%20views&color=0e75b6&style=flat" alt="ashirbaddash"  align ="right"/> </p>
 
 <h3 align="left">CONNECT WITH ME</h3>
