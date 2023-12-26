@@ -13,7 +13,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/ashirbaddash" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt ="ash" /></a>
-<a href="https://discord.gg/atJs6f4wff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atJs6f4wff" height="30" width="40" /></a>
+<a href="https://discord.gg/atJs6f4wff" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ash" /></a>
 </p>
 
 <h3>LANGUAGES AND TOOLS</h3>
