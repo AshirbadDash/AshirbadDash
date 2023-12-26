@@ -11,26 +11,8 @@
 
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
-<a href="https://codepen.io/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://dev.to/ashirbadash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashirbadash" height="30" width="40" /></a>
-<a href="https://twitter.com/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://instagram.com/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://dribbble.com/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://www.behance.net/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashirbaddash" height="30" width="40" /></a>
-<a href="https://medium.com/@ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashirbaddash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ash" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ashirbaddash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/blinkcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="blinkcat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ashirbaddash" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashirbaddash" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/blynkcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="blynkcat" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/ashirbaddash" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt ="ash" /></a>
 <a href="https://discord.gg/atJs6f4wff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atJs6f4wff" height="30" width="40" /></a>
 </p>
 
