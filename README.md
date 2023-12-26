@@ -2,7 +2,7 @@
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h1 align="center">Hi 👋, I'm Ashirbad Dash</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F625&random=false&width=435&lines=A+Passionate+Fullstack+Developer+From+India)](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=A+Fullstack!+Developer+From+India+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirbaddash&label=Profile%20views&color=0e75b6&style=flat" alt="ashirbaddash" /> </p>
 
