@@ -33,7 +33,7 @@
   
   
 
-### 🌱 Github Stats 
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashirbaddash&theme=tokyonight">
   <a href="https://github.com/Netsujr">
