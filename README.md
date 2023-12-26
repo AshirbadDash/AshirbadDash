@@ -9,7 +9,7 @@
 - 📫 How to reach me **ashirbadash2000@gmail.com**
 
 
-<h3 align="left">CONNECT WITH ME:</h3>
+<h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
 <a href="https://codepen.io/ashirbaddash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashirbaddash" height="30" width="40" /></a>
 <a href="https://dev.to/ashirbadash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashirbadash" height="30" width="40" /></a>
