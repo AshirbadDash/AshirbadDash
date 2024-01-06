@@ -13,7 +13,10 @@
 
 <a href="https://linkedin.com/in/ashirbaddash" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt ="ash" /></a>
 <a href = "ashirbadash2000@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/atJs6f4wff" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ash" /></a>
+<a href="" target="blank"  margin="10px"><img align="center"  src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ash" /></a>
+<br>
+<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/569363958763487242)](https://discord.com/users/569363958763487242)
 
 </p>
 
