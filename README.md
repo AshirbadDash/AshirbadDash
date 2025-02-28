@@ -47,8 +47,8 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashirbaddash&theme=tokyonight">
-  <a href="https://github.com/Netsujr">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashirbaddash&theme=tokyonight" alt="Netsujr" />
+  <a href="https://github.com/AshirbadDash">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashirbaddash&theme=tokyonight" alt="Ashirbad" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbaddash&layout=compact&langs_count=7&theme=tokyonight"/>
 
   <img width=100% title="Hornet-Developer" alt="ashirbad_dash"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
