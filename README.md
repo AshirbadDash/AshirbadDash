@@ -14,16 +14,15 @@
 <a href="https://linkedin.com/in/ashirbaddash" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
 </a>
-
 <a href="mailto:ashirabdash2000@gmail.com?subject=Hi👋🏽&body=" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;" />
 </a>
 <a href="https://discord.com/users/569363958763487242" target="blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="vertical-align: middle;" />
 </a>
+<br>
+<br>
 
-<br>
-<br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/569363958763487242)](https://discord.com/users/569363958763487242)
 
 </p>
