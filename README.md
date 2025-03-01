@@ -24,7 +24,7 @@
 <br>
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/569363958763487242)](https://discord.com/users/569363958763487242)
+[![Discord Presence](https://lanyard.cnrad.dev/api/569363958763487242?idleMessage=Arranging%200s%20and%201s%20in%20just%20the%20right%20order.)](https://discord.com/users/569363958763487242)
 
 </p>
 
